@@ -3,12 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+This tutorial outlines the prerequisites and installation process that I used to practice with the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -20,36 +15,29 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1680" alt="Screenshot 2025-01-24 at 12 37 15 PM" src="https://github.com/user-attachments/assets/cddbc1dd-a3a1-464e-941d-1286ac410a0c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To start off, I did not have the osTicket system on my computer, so I had to download everything on my Virtual Machine. The screenshot above shows the big picture of what I did to install this. It mainly consisted of opening/unzipping a bunch of folders, adding access to certain services, and just making sure I gave osTicket everything it needed to run since it requires certain prerequisites.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1680" alt="Screenshot 2025-01-24 at 12 31 05 PM" src="https://github.com/user-attachments/assets/32f5b035-7ddc-45a6-9686-088a7622d1f7" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After all of the tedious work, I utilized IIS (Information Internet Services) to basically set up osTicket like I was apart of an organization to get familiarized with working day to day tickets. 
+</p>
+<br />
+
+<p>
+<img width="1680" alt="Screenshot 2025-01-24 at 1 05 51 PM" src="https://github.com/user-attachments/assets/1524b9c5-3341-4d58-8fe3-5024edb5faab" />
+</p>
+<p>
+After confiming that everything downloaded successfully, I can now set up, work, and complete tickets like I am working at a job from home!
 </p>
 <br />
